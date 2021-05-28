@@ -1,2 +1,2 @@
 # hello-wird
-my first
+Всем привет. В рамках Модуля_9 изучаю GitHut.
